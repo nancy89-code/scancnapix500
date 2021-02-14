@@ -39,6 +39,7 @@ The 1 you advisable seems sufficient. How straightforward is set up with QB for 
 
 - ` Canon <https://ijstartcanon.readthedocs.io/en/latest/>`_
 - ` HP Scan Doctor <https://hpscanandprinterdoctor.com/>`_
-- ` Brother Printer Setup <https://brotherprintertroubleshooting.com/>`_
+- ` Brother Printer Setup <https://brotherprintertroubleshooting.com/>`
+- ` Bizhub 363 Driver <https://usa-printer.com/bizhub-363-driver/>`
 
 
